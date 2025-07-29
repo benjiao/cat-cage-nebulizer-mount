@@ -1,0 +1,39 @@
+# Ignore FreeCAD backup files
+*.FCStd1
+*.FCBak
+
+# Ignore FreeCAD temporary files
+*.tmp
+*.cfg
+
+# Ignore FreeCAD log files
+*.log
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment folders
+venv/
+.env/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore build artifacts
+build/
+dist/
+*.o
+*.so
+*.dll
+*.exe
+
+# Ignore other common files
+*.swp
+*.swo
+*.bak
